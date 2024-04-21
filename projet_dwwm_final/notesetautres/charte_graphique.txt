@@ -1,0 +1,7 @@
+Texte principal : '#3e3e3e' (un gris foncé pour un bon contraste avec le fond)
+Accents / Liens : '#805F3B' (un brun foncé pour un contraste subtil mais distinct)
+Surbrillance / Boutons : '#D1B394' (une teinte plus claire de la couleur de fond pour un effet de surbrillance)
+Texte secondaire : '#73655E' (un gris-brun pour une lecture facile sans être trop contrasté)
+Surbrillance / Accent 2 : '#F6E8D5' (un beige clair pour un contraste doux et une touche de luminosité)
+
+attention elle peut changer!
